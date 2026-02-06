@@ -1,0 +1,17 @@
+# Antigravity: do not version caches/extensions/binaries
+antigravity/extensions/
+antigravity/**/extensions/
+antigravity/cache/
+antigravity/**/cache/
+antigravity/tmp/
+antigravity/**/tmp/
+antigravity/logs/
+antigravity/**/logs/
+antigravity/**/*.jar
+antigravity/**/*.zip
+antigravity/**/*.vsix
+# Antigravity binaries
+antigravity/antigravity/bin/
+antigravity/**/bin/
+antigravity/**/*.dylib
+

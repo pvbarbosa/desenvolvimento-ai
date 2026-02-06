@@ -14,4 +14,6 @@ antigravity/**/*.vsix
 antigravity/antigravity/bin/
 antigravity/**/bin/
 antigravity/**/*.dylib
+# Antigravity argv variants / backups
+antigravity/argv*.json
 
